@@ -24,4 +24,3 @@ npm install
 ```
 npm run dev
 ```
-## Project link:
