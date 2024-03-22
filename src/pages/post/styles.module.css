@@ -1,0 +1,12 @@
+.card {
+  margin: 10px 0;
+}
+
+.body {
+  display: flex;
+  flex-direction: column;
+}
+
+.cardButton {
+  align-self: flex-end;
+}

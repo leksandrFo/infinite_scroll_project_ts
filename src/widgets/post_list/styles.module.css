@@ -1,0 +1,8 @@
+.postsList {
+  padding: 0;
+}
+
+.postItem {
+  list-style-type: none;
+  margin: 10px 0;
+}
